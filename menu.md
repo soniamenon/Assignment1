@@ -5,5 +5,6 @@ Matricola: 1144731
 [Pizza Capricciosa](pizza/capricciosa.md)  
   
 ## Primi  
+[Bucatini amatriciana](primi/bucatini_matriciana.md)  
   
 ### Pizzeria Bella Napoli
