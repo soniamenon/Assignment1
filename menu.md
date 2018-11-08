@@ -1,4 +1,5 @@
 Matricola: 1144731  
   
-[Pizza Margherita](margherita.md)  
-[Pizza Capricciosa](capricciosa.md)
+## Pizze  
+[Pizza Margherita](pizza/margherita.md)  
+[Pizza Capricciosa](pizza/capricciosa.md)
